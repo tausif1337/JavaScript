@@ -2,7 +2,7 @@ function function_1()
 {
     for(var i = 0; i<4; i++)
     {
-        console.log('JS')
+        console.log('JavaScript')
     }
     console.log(i);
 }
